@@ -39,6 +39,12 @@ vikashh01-proxify/
         └── TEST-tests.LoginTest.xml
 ```
 
+## Manual Testing Artifacts
+- **Test Plan** (`Test Plan For Proxify.gg.docx`): Defines the overall testing strategy, scope, objectives, and resources required for testing.
+- **Test Scenarios** (`Test Scenario For Proxify.xlsx`): High-level scenarios outlining different testing conditions and flows.
+- **Test Cases** (`Test Cases For Proxify.gg.xlsx`): Detailed step-by-step test cases with expected results.
+- **Bug Report** (`Bug Report For Proxify.gg.xlsx`): Documented defects found during testing, including descriptions, severity, and steps to reproduce.
+
 ## Setup and Execution
 ### Prerequisites
 - Java (JDK 8 or later)
@@ -69,5 +75,16 @@ vikashh01-proxify/
 
 ### Test Reports
 After execution, reports are generated in the `test-output/` directory. Open `test-output/index.html` to view the detailed TestNG report.
+
+## Contributing
+Contributions are welcome! Follow these steps:
+1. Fork the repository.
+2. Create a new branch (`feature-branch`).
+3. Commit changes.
+4. Push the branch and submit a pull request.
+
+
+
+
 
 
